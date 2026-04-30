@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Yannick
+AWS Solutions Architect | Cloud Engineer | SaaS Builder
 
-<!--
-**mbnyannick/mbnyannick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design scalable cloud solutions using AWS, automation, and modern development practices. I enjoy building serverless apps, creating useful tools, and turning ideas into real products.
 
-Here are some ideas to get you started:
+🔧 Skills
+AWS • Serverless • IaC • DevOps • Python • JavaScript • Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I’m Working On
+Cloud projects, automation workflows, and SaaS prototypes that solve real problems.
+
+🌐 Connect
+LinkedIn: linkedin.com/in/mbnyannick
